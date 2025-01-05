@@ -1,4 +1,4 @@
 # Demo
 This is my Demo Repository.
 <br>
-Author -Samar Noor
+Author - Samar Noor
